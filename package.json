@@ -1,0 +1,27 @@
+{
+  "name": "quotes",
+  "version": "1.0.0",
+  "description": "Random quotes of Lazareth Long (Robert A. Heinlein)",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cseale61/quotes.git"
+  },
+  "keywords": [
+    "Quotes",
+    "\"Lazareth",
+    "Long\"",
+    "\"Robert",
+    "A.",
+    "Heinlein\""
+  ],
+  "author": "Charles Seale",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cseale61/quotes/issues"
+  },
+  "homepage": "https://github.com/cseale61/quotes#readme"
+}
