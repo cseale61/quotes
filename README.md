@@ -4,7 +4,9 @@ Random quotes from the Notebook of Lazarus Long contained in the book "Time Enou
 
 # Installation
 
-'''npm install --save laz-long-quotes```
+```
+npm install --save laz-long-quotes
+```
 
 # Usage
 
