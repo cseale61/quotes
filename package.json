@@ -1,6 +1,6 @@
 {
   "name": "laz-long-quotes",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Random quotes of Lazarus Long (Robert A. Heinlein)",
   "main": "app.js",
   "scripts": {

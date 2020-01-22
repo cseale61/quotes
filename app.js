@@ -65,7 +65,7 @@ module.exports = {
 
         let data = {
             quote: quotes[element],
-            source: "From the Notebooks of Lazarus Long / Time Enough for Love, by Robert A. HeinLein"
+            source: "From the Notebooks of Lazarus Long / Time Enough for Love, by Robert A. Heinlein"
         };
 
         return data;
